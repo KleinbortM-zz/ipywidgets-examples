@@ -1,2 +1,2 @@
 # ipywidgets-examples
-A showcase of a ipywidget.
+A showcase of the ipywidget module.
